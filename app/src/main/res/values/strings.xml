@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test</string>
+
+    <string name="keda_id">5a127875</string>
+
+<<<<<<< HEAD
+    <string name="accessibility_service_description">该服务用于帮助用户去自动触发应用事件</string>
+
+=======
+>>>>>>> 4f3c256c28cac54e7b42712ab4673fd069090a5e
+</resources>
